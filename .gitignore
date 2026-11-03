@@ -4,3 +4,9 @@ out/
 *.tsbuildinfo
 .env*.local
 .DS_Store
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.db
